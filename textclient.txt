@@ -1,0 +1,1980 @@
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.1.45
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<description
+ logDescription="TextClient"
+ name="TextClient"
+ auxInfo="null"/>
+ 
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.1.45
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<description
+ logDescription="TextClient"
+ name="TextClient"
+ auxInfo="null"/>
+ 
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-bcf4459a7558e1033a2850f830e16a00-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="bcf4459a7558e1033a2850f830e16a00@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: bcf4459a7558e1033a2850f830e16a00@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058227830"
+isSender="true" 
+transactionId="textclientv1.0-bcf4459a7558e1033a2850f830e16a00-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="bcf4459a7558e1033a2850f830e16a00@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: bcf4459a7558e1033a2850f830e16a00@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058227861"
+isSender="true" 
+transactionId="textclientv1.0-bcf4459a7558e1033a2850f830e16a00-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="bcf4459a7558e1033a2850f830e16a00@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: bcf4459a7558e1033a2850f830e16a00@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-bcf4459a7558e1033a2850f830e16a00-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="bcf4459a7558e1033a2850f830e16a00@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: bcf4459a7558e1033a2850f830e16a00@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058227861"
+isSender="false" 
+transactionId="textclientv1.0-bcf4459a7558e1033a2850f830e16a00-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="bcf4459a7558e1033a2850f830e16a00@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: bcf4459a7558e1033a2850f830e16a00@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058237426"
+isSender="true" 
+transactionId="textclientv1.0-11672d56d851fbf25070f5caeffc1872-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="11672d56d851fbf25070f5caeffc1872@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 11672d56d851fbf25070f5caeffc1872@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-11672d56d851fbf25070f5caeffc1872-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="11672d56d851fbf25070f5caeffc1872@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 11672d56d851fbf25070f5caeffc1872@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058237426"
+isSender="true" 
+transactionId="textclientv1.0-11672d56d851fbf25070f5caeffc1872-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="11672d56d851fbf25070f5caeffc1872@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 11672d56d851fbf25070f5caeffc1872@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-11672d56d851fbf25070f5caeffc1872-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="11672d56d851fbf25070f5caeffc1872@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 11672d56d851fbf25070f5caeffc1872@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058237426"
+isSender="false" 
+transactionId="textclientv1.0-11672d56d851fbf25070f5caeffc1872-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="11672d56d851fbf25070f5caeffc1872@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 11672d56d851fbf25070f5caeffc1872@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058241926"
+isSender="true" 
+transactionId="textclientv1.0-54758f102241913dc5f2668e488511fe-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="54758f102241913dc5f2668e488511fe@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 54758f102241913dc5f2668e488511fe@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-54758f102241913dc5f2668e488511fe-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="54758f102241913dc5f2668e488511fe@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 54758f102241913dc5f2668e488511fe@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058241926"
+isSender="true" 
+transactionId="textclientv1.0-54758f102241913dc5f2668e488511fe-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="54758f102241913dc5f2668e488511fe@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 54758f102241913dc5f2668e488511fe@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-54758f102241913dc5f2668e488511fe-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="54758f102241913dc5f2668e488511fe@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 54758f102241913dc5f2668e488511fe@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058241926"
+isSender="false" 
+transactionId="textclientv1.0-54758f102241913dc5f2668e488511fe-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="54758f102241913dc5f2668e488511fe@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 54758f102241913dc5f2668e488511fe@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058242473"
+isSender="true" 
+transactionId="textclientv1.0-212f235d0c5a001ea4f9a423b63dceaf-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="212f235d0c5a001ea4f9a423b63dceaf@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 212f235d0c5a001ea4f9a423b63dceaf@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-212f235d0c5a001ea4f9a423b63dceaf-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="212f235d0c5a001ea4f9a423b63dceaf@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 212f235d0c5a001ea4f9a423b63dceaf@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058242473"
+isSender="true" 
+transactionId="textclientv1.0-212f235d0c5a001ea4f9a423b63dceaf-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="212f235d0c5a001ea4f9a423b63dceaf@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 212f235d0c5a001ea4f9a423b63dceaf@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-212f235d0c5a001ea4f9a423b63dceaf-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="212f235d0c5a001ea4f9a423b63dceaf@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 212f235d0c5a001ea4f9a423b63dceaf@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058242473"
+isSender="false" 
+transactionId="textclientv1.0-212f235d0c5a001ea4f9a423b63dceaf-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="212f235d0c5a001ea4f9a423b63dceaf@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 212f235d0c5a001ea4f9a423b63dceaf@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058242848"
+isSender="true" 
+transactionId="textclientv1.0-034abfaa142f2f6228cf24f8191c5ad2-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="034abfaa142f2f6228cf24f8191c5ad2@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 034abfaa142f2f6228cf24f8191c5ad2@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-034abfaa142f2f6228cf24f8191c5ad2-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="034abfaa142f2f6228cf24f8191c5ad2@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 034abfaa142f2f6228cf24f8191c5ad2@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058242848"
+isSender="true" 
+transactionId="textclientv1.0-034abfaa142f2f6228cf24f8191c5ad2-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="034abfaa142f2f6228cf24f8191c5ad2@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 034abfaa142f2f6228cf24f8191c5ad2@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-034abfaa142f2f6228cf24f8191c5ad2-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="034abfaa142f2f6228cf24f8191c5ad2@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 034abfaa142f2f6228cf24f8191c5ad2@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058242848"
+isSender="false" 
+transactionId="textclientv1.0-034abfaa142f2f6228cf24f8191c5ad2-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="034abfaa142f2f6228cf24f8191c5ad2@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 034abfaa142f2f6228cf24f8191c5ad2@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058243004"
+isSender="true" 
+transactionId="textclientv1.0-e35c5099834a6eaed7f31f1471d9ee92-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="e35c5099834a6eaed7f31f1471d9ee92@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: e35c5099834a6eaed7f31f1471d9ee92@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-e35c5099834a6eaed7f31f1471d9ee92-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="e35c5099834a6eaed7f31f1471d9ee92@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: e35c5099834a6eaed7f31f1471d9ee92@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058243004"
+isSender="true" 
+transactionId="textclientv1.0-e35c5099834a6eaed7f31f1471d9ee92-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="e35c5099834a6eaed7f31f1471d9ee92@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: e35c5099834a6eaed7f31f1471d9ee92@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-e35c5099834a6eaed7f31f1471d9ee92-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="e35c5099834a6eaed7f31f1471d9ee92@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: e35c5099834a6eaed7f31f1471d9ee92@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058243004"
+isSender="false" 
+transactionId="textclientv1.0-e35c5099834a6eaed7f31f1471d9ee92-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="e35c5099834a6eaed7f31f1471d9ee92@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: e35c5099834a6eaed7f31f1471d9ee92@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058243176"
+isSender="true" 
+transactionId="textclientv1.0-46c34061aa6ccdb4f0e8a9ea7b3827f4-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="46c34061aa6ccdb4f0e8a9ea7b3827f4@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 46c34061aa6ccdb4f0e8a9ea7b3827f4@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-46c34061aa6ccdb4f0e8a9ea7b3827f4-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="46c34061aa6ccdb4f0e8a9ea7b3827f4@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 46c34061aa6ccdb4f0e8a9ea7b3827f4@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058243176"
+isSender="true" 
+transactionId="textclientv1.0-46c34061aa6ccdb4f0e8a9ea7b3827f4-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="46c34061aa6ccdb4f0e8a9ea7b3827f4@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 46c34061aa6ccdb4f0e8a9ea7b3827f4@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-46c34061aa6ccdb4f0e8a9ea7b3827f4-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="46c34061aa6ccdb4f0e8a9ea7b3827f4@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 46c34061aa6ccdb4f0e8a9ea7b3827f4@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058243176"
+isSender="false" 
+transactionId="textclientv1.0-46c34061aa6ccdb4f0e8a9ea7b3827f4-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="46c34061aa6ccdb4f0e8a9ea7b3827f4@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 46c34061aa6ccdb4f0e8a9ea7b3827f4@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058243504"
+isSender="true" 
+transactionId="textclientv1.0-e0498a44ffeaf13d8fff1d864c4f0393-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="e0498a44ffeaf13d8fff1d864c4f0393@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: e0498a44ffeaf13d8fff1d864c4f0393@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-e0498a44ffeaf13d8fff1d864c4f0393-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="e0498a44ffeaf13d8fff1d864c4f0393@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: e0498a44ffeaf13d8fff1d864c4f0393@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058243504"
+isSender="true" 
+transactionId="textclientv1.0-e0498a44ffeaf13d8fff1d864c4f0393-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="e0498a44ffeaf13d8fff1d864c4f0393@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: e0498a44ffeaf13d8fff1d864c4f0393@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="0"
+isSender="false" 
+transactionId="textclientv1.0-e0498a44ffeaf13d8fff1d864c4f0393-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="e0498a44ffeaf13d8fff1d864c4f0393@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: e0498a44ffeaf13d8fff1d864c4f0393@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:5000" 
+time="1466058243504"
+isSender="false" 
+transactionId="textclientv1.0-e0498a44ffeaf13d8fff1d864c4f0393-192.168.1.45-1-message-192.168.1.45-5000323334" 
+callId="e0498a44ffeaf13d8fff1d864c4f0393@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: e0498a44ffeaf13d8fff1d864c4f0393@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058249609"
+isSender="true" 
+transactionId="textclientv1.0-12d1f5e5f32a0bb7bb870c60e2c09c98-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="12d1f5e5f32a0bb7bb870c60e2c09c98@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 12d1f5e5f32a0bb7bb870c60e2c09c98@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058249609"
+isSender="false" 
+transactionId="textclientv1.0-12d1f5e5f32a0bb7bb870c60e2c09c98-192.168.1.45-1-message-192.168.1.45-50001323334" 
+callId="12d1f5e5f32a0bb7bb870c60e2c09c98@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 12d1f5e5f32a0bb7bb870c60e2c09c98@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058249641"
+isSender="true" 
+transactionId="textclientv1.0-12d1f5e5f32a0bb7bb870c60e2c09c98-192.168.1.45-1-message-192.168.1.45-50001323334" 
+callId="12d1f5e5f32a0bb7bb870c60e2c09c98@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 12d1f5e5f32a0bb7bb870c60e2c09c98@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058249641"
+isSender="false" 
+transactionId="textclientv1.0-12d1f5e5f32a0bb7bb870c60e2c09c98-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="12d1f5e5f32a0bb7bb870c60e2c09c98@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 12d1f5e5f32a0bb7bb870c60e2c09c98@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058249656"
+isSender="false" 
+transactionId="textclientv1.0-12d1f5e5f32a0bb7bb870c60e2c09c98-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="12d1f5e5f32a0bb7bb870c60e2c09c98@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 12d1f5e5f32a0bb7bb870c60e2c09c98@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058251141"
+isSender="true" 
+transactionId="textclientv1.0-d28fcbe50d5cc7bc560e46982781160c-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="d28fcbe50d5cc7bc560e46982781160c@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: d28fcbe50d5cc7bc560e46982781160c@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058251141"
+isSender="false" 
+transactionId="textclientv1.0-d28fcbe50d5cc7bc560e46982781160c-192.168.1.45-1-message-192.168.1.45-50001323334" 
+callId="d28fcbe50d5cc7bc560e46982781160c@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: d28fcbe50d5cc7bc560e46982781160c@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058251156"
+isSender="true" 
+transactionId="textclientv1.0-d28fcbe50d5cc7bc560e46982781160c-192.168.1.45-1-message-192.168.1.45-50001323334" 
+callId="d28fcbe50d5cc7bc560e46982781160c@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: d28fcbe50d5cc7bc560e46982781160c@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058251156"
+isSender="false" 
+transactionId="textclientv1.0-d28fcbe50d5cc7bc560e46982781160c-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="d28fcbe50d5cc7bc560e46982781160c@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: d28fcbe50d5cc7bc560e46982781160c@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058251156"
+isSender="false" 
+transactionId="textclientv1.0-d28fcbe50d5cc7bc560e46982781160c-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="d28fcbe50d5cc7bc560e46982781160c@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: d28fcbe50d5cc7bc560e46982781160c@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058251531"
+isSender="true" 
+transactionId="textclientv1.0-77eae678d2522e9e7ac67aebcee5820c-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="77eae678d2522e9e7ac67aebcee5820c@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 77eae678d2522e9e7ac67aebcee5820c@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058251531"
+isSender="false" 
+transactionId="textclientv1.0-77eae678d2522e9e7ac67aebcee5820c-192.168.1.45-1-message-192.168.1.45-50001323334" 
+callId="77eae678d2522e9e7ac67aebcee5820c@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 77eae678d2522e9e7ac67aebcee5820c@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058251547"
+isSender="true" 
+transactionId="textclientv1.0-77eae678d2522e9e7ac67aebcee5820c-192.168.1.45-1-message-192.168.1.45-50001323334" 
+callId="77eae678d2522e9e7ac67aebcee5820c@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 77eae678d2522e9e7ac67aebcee5820c@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058251547"
+isSender="false" 
+transactionId="textclientv1.0-77eae678d2522e9e7ac67aebcee5820c-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="77eae678d2522e9e7ac67aebcee5820c@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 77eae678d2522e9e7ac67aebcee5820c@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058251547"
+isSender="false" 
+transactionId="textclientv1.0-77eae678d2522e9e7ac67aebcee5820c-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="77eae678d2522e9e7ac67aebcee5820c@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 77eae678d2522e9e7ac67aebcee5820c@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058251734"
+isSender="true" 
+transactionId="textclientv1.0-1dbd91a9948c441c601e19c54f1ffe97-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="1dbd91a9948c441c601e19c54f1ffe97@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 1dbd91a9948c441c601e19c54f1ffe97@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058251734"
+isSender="false" 
+transactionId="textclientv1.0-1dbd91a9948c441c601e19c54f1ffe97-192.168.1.45-1-message-192.168.1.45-50001323334" 
+callId="1dbd91a9948c441c601e19c54f1ffe97@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: 1dbd91a9948c441c601e19c54f1ffe97@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058251734"
+isSender="true" 
+transactionId="textclientv1.0-1dbd91a9948c441c601e19c54f1ffe97-192.168.1.45-1-message-192.168.1.45-50001323334" 
+callId="1dbd91a9948c441c601e19c54f1ffe97@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 1dbd91a9948c441c601e19c54f1ffe97@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058251734"
+isSender="false" 
+transactionId="textclientv1.0-1dbd91a9948c441c601e19c54f1ffe97-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="1dbd91a9948c441c601e19c54f1ffe97@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 1dbd91a9948c441c601e19c54f1ffe97@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058251734"
+isSender="false" 
+transactionId="textclientv1.0-1dbd91a9948c441c601e19c54f1ffe97-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="1dbd91a9948c441c601e19c54f1ffe97@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 1dbd91a9948c441c601e19c54f1ffe97@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058262935"
+isSender="true" 
+transactionId="textclientv1.0-ddfbc06c31f720030cf7c67c8ecb578d-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="ddfbc06c31f720030cf7c67c8ecb578d@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: ddfbc06c31f720030cf7c67c8ecb578d@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 25
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058262935"
+isSender="false" 
+transactionId="textclientv1.0-ddfbc06c31f720030cf7c67c8ecb578d-192.168.1.45-1-message-192.168.1.45-50001323334" 
+callId="ddfbc06c31f720030cf7c67c8ecb578d@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: ddfbc06c31f720030cf7c67c8ecb578d@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 25
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058262935"
+isSender="true" 
+transactionId="textclientv1.0-ddfbc06c31f720030cf7c67c8ecb578d-192.168.1.45-1-message-192.168.1.45-50001323334" 
+callId="ddfbc06c31f720030cf7c67c8ecb578d@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: ddfbc06c31f720030cf7c67c8ecb578d@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058262935"
+isSender="false" 
+transactionId="textclientv1.0-ddfbc06c31f720030cf7c67c8ecb578d-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="ddfbc06c31f720030cf7c67c8ecb578d@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: ddfbc06c31f720030cf7c67c8ecb578d@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058262935"
+isSender="false" 
+transactionId="textclientv1.0-ddfbc06c31f720030cf7c67c8ecb578d-192.168.1.45-1-message-192.168.1.45-50001353935" 
+callId="ddfbc06c31f720030cf7c67c8ecb578d@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: ddfbc06c31f720030cf7c67c8ecb578d@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.1.45
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<description
+ logDescription="TextClient"
+ name="TextClient"
+ auxInfo="null"/>
+ 
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.1.45
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<description
+ logDescription="TextClient"
+ name="TextClient"
+ auxInfo="null"/>
+ 
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058347922"
+isSender="true" 
+transactionId="textclientv1.0-bac8efcb41691dbd867e94c1fbf55cbc-192.168.1.45-1-message-192.168.1.45-50001333331" 
+callId="bac8efcb41691dbd867e94c1fbf55cbc@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: bac8efcb41691dbd867e94c1fbf55cbc@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 5
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058347922"
+isSender="false" 
+transactionId="textclientv1.0-bac8efcb41691dbd867e94c1fbf55cbc-192.168.1.45-1-message-192.168.1.45-50001363430" 
+callId="bac8efcb41691dbd867e94c1fbf55cbc@192.168.1.45" 
+firstLine="MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:salman165@192.168.1.45:5000;transport=udp SIP/2.0
+Call-ID: bac8efcb41691dbd867e94c1fbf55cbc@192.168.1.45
+CSeq: 1 MESSAGE
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+To: "salman165" <sip:salman165@192.168.1.45:5000>
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+Max-Forwards: 70
+Contact: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Content-Type: text/plain
+Content-Length: 5
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058348000"
+isSender="true" 
+transactionId="textclientv1.0-bac8efcb41691dbd867e94c1fbf55cbc-192.168.1.45-1-message-192.168.1.45-50001363430" 
+callId="bac8efcb41691dbd867e94c1fbf55cbc@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: bac8efcb41691dbd867e94c1fbf55cbc@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058348000"
+isSender="false" 
+transactionId="textclientv1.0-bac8efcb41691dbd867e94c1fbf55cbc-192.168.1.45-1-message-192.168.1.45-50001333331" 
+callId="bac8efcb41691dbd867e94c1fbf55cbc@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: bac8efcb41691dbd867e94c1fbf55cbc@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058348016"
+isSender="false" 
+transactionId="textclientv1.0-bac8efcb41691dbd867e94c1fbf55cbc-192.168.1.45-1-message-192.168.1.45-50001333331" 
+callId="bac8efcb41691dbd867e94c1fbf55cbc@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "salman165" <sip:salman165@192.168.1.45:5000>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:50001;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: bac8efcb41691dbd867e94c1fbf55cbc@192.168.1.45
+From: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058359362"
+isSender="true" 
+transactionId="textclientv1.0-853fedff1adfd8043c6ad4fb6663f698-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="853fedff1adfd8043c6ad4fb6663f698@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0
+Call-ID: 853fedff1adfd8043c6ad4fb6663f698@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 14
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058359362"
+isSender="false" 
+transactionId="textclientv1.0-853fedff1adfd8043c6ad4fb6663f698-192.168.1.45-1-message-192.168.1.45-5000333331" 
+callId="853fedff1adfd8043c6ad4fb6663f698@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0
+Call-ID: 853fedff1adfd8043c6ad4fb6663f698@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 14
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058359378"
+isSender="true" 
+transactionId="textclientv1.0-853fedff1adfd8043c6ad4fb6663f698-192.168.1.45-1-message-192.168.1.45-5000333331" 
+callId="853fedff1adfd8043c6ad4fb6663f698@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 853fedff1adfd8043c6ad4fb6663f698@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058359378"
+isSender="false" 
+transactionId="textclientv1.0-853fedff1adfd8043c6ad4fb6663f698-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="853fedff1adfd8043c6ad4fb6663f698@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 853fedff1adfd8043c6ad4fb6663f698@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058359378"
+isSender="false" 
+transactionId="textclientv1.0-853fedff1adfd8043c6ad4fb6663f698-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="853fedff1adfd8043c6ad4fb6663f698@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 853fedff1adfd8043c6ad4fb6663f698@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058782273"
+isSender="true" 
+transactionId="textclientv1.0-7a3be58973150080480b85340e480009-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="7a3be58973150080480b85340e480009@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0
+Call-ID: 7a3be58973150080480b85340e480009@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 15
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466058782273"
+isSender="false" 
+transactionId="textclientv1.0-7a3be58973150080480b85340e480009-192.168.1.45-1-message-192.168.1.45-5000333331" 
+callId="7a3be58973150080480b85340e480009@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0
+Call-ID: 7a3be58973150080480b85340e480009@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 15
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058782273"
+isSender="true" 
+transactionId="textclientv1.0-7a3be58973150080480b85340e480009-192.168.1.45-1-message-192.168.1.45-5000333331" 
+callId="7a3be58973150080480b85340e480009@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 7a3be58973150080480b85340e480009@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058782273"
+isSender="false" 
+transactionId="textclientv1.0-7a3be58973150080480b85340e480009-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="7a3be58973150080480b85340e480009@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 7a3be58973150080480b85340e480009@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466058782273"
+isSender="false" 
+transactionId="textclientv1.0-7a3be58973150080480b85340e480009-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="7a3be58973150080480b85340e480009@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 7a3be58973150080480b85340e480009@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466059162261"
+isSender="true" 
+transactionId="textclientv1.0-5afd545a68cd2917c73bdb721eae8b6b-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="5afd545a68cd2917c73bdb721eae8b6b@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0
+Call-ID: 5afd545a68cd2917c73bdb721eae8b6b@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466059162261"
+isSender="false" 
+transactionId="textclientv1.0-5afd545a68cd2917c73bdb721eae8b6b-192.168.1.45-1-message-192.168.1.45-5000333331" 
+callId="5afd545a68cd2917c73bdb721eae8b6b@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0
+Call-ID: 5afd545a68cd2917c73bdb721eae8b6b@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466059162261"
+isSender="true" 
+transactionId="textclientv1.0-5afd545a68cd2917c73bdb721eae8b6b-192.168.1.45-1-message-192.168.1.45-5000333331" 
+callId="5afd545a68cd2917c73bdb721eae8b6b@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 5afd545a68cd2917c73bdb721eae8b6b@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466059162261"
+isSender="false" 
+transactionId="textclientv1.0-5afd545a68cd2917c73bdb721eae8b6b-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="5afd545a68cd2917c73bdb721eae8b6b@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 5afd545a68cd2917c73bdb721eae8b6b@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466059162261"
+isSender="false" 
+transactionId="textclientv1.0-5afd545a68cd2917c73bdb721eae8b6b-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="5afd545a68cd2917c73bdb721eae8b6b@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 5afd545a68cd2917c73bdb721eae8b6b@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466059194709"
+isSender="true" 
+transactionId="textclientv1.0-941ace9d6ecab0d9c3be603a2136acc5-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="941ace9d6ecab0d9c3be603a2136acc5@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0
+Call-ID: 941ace9d6ecab0d9c3be603a2136acc5@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 31781
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:5000" 
+to="192.168.1.45:50001" 
+time="1466059194724"
+isSender="false" 
+transactionId="textclientv1.0-941ace9d6ecab0d9c3be603a2136acc5-192.168.1.45-1-message-192.168.1.45-5000333331" 
+callId="941ace9d6ecab0d9c3be603a2136acc5@192.168.1.45" 
+firstLine="MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:oranglain@192.168.1.45:50001;transport=udp SIP/2.0
+Call-ID: 941ace9d6ecab0d9c3be603a2136acc5@192.168.1.45
+CSeq: 1 MESSAGE
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+Max-Forwards: 70
+Contact: "salman165" <sip:salman165@192.168.1.45:5000>
+Content-Type: text/plain
+Content-Length: 31781
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466059194740"
+isSender="true" 
+transactionId="textclientv1.0-941ace9d6ecab0d9c3be603a2136acc5-192.168.1.45-1-message-192.168.1.45-5000333331" 
+callId="941ace9d6ecab0d9c3be603a2136acc5@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 941ace9d6ecab0d9c3be603a2136acc5@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466059194740"
+isSender="false" 
+transactionId="textclientv1.0-941ace9d6ecab0d9c3be603a2136acc5-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="941ace9d6ecab0d9c3be603a2136acc5@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 941ace9d6ecab0d9c3be603a2136acc5@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.1.45:50001" 
+to="192.168.1.45:5000" 
+time="1466059194740"
+isSender="false" 
+transactionId="textclientv1.0-941ace9d6ecab0d9c3be603a2136acc5-192.168.1.45-1-message-192.168.1.45-5000363430" 
+callId="941ace9d6ecab0d9c3be603a2136acc5@192.168.1.45" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+To: "oranglain" <sip:oranglain@192.168.1.45:50001>;tag=888
+Via: SIP/2.0/UDP 192.168.1.45:5000;branch=branch1
+CSeq: 1 MESSAGE
+Call-ID: 941ace9d6ecab0d9c3be603a2136acc5@192.168.1.45
+From: "salman165" <sip:salman165@192.168.1.45:5000>;tag=textclientv1.0
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.1.45
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<description
+ logDescription="TextClient"
+ name="TextClient"
+ auxInfo="null"/>
+ 
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.1.45
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<description
+ logDescription="TextClient"
+ name="TextClient"
+ auxInfo="null"/>
+ 
